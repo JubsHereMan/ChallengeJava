@@ -1,0 +1,13 @@
+br\com\fiap\DAO\ClienteDAO.class
+br\com\fiap\DAO\LoginDAO.class
+br\com\fiap\services\ViaCepService.class
+br\com\fiap\conexoes\ConexaoFactory.class
+br\com\fiap\bo\ClienteBO.class
+br\com\fiap\beans\Login.class
+br\com\fiap\resource\CorsFilter.class
+br\com\fiap\main\Crud.class
+br\com\fiap\model\Endereco.class
+br\com\fiap\DAO\EnderecoDAO.class
+br\com\fiap\resource\ClienteResource.class
+br\com\fiap\beans\Cliente.class
+br\com\fiap\excecoes\Excecao.class
